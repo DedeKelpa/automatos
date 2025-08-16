@@ -19,3 +19,5 @@ if atual in aceitacao:
     print("Aceito")
 else:
     print("Rejeito")
+
+// Terminam em 1 ou tenham pelo menos 1 "1" e terminem em um número par de 0 ( PARA O LAB )  
