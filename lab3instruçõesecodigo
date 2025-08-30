@@ -1,0 +1,6 @@
+# 1 linha: estaos 
+# 2 linha: estado inicial  
+# 3 linha:estados de aceitacao
+# 4 linha: alfabeto
+# 5 linhaem diante :tabela de transição (função de transição)
+# ultima linha: conjunto de palavras 
